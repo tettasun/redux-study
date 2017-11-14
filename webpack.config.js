@@ -9,7 +9,17 @@ module.exports = {
   devServer: {
     contentBase: './',
     port: 8080,
-    inline: true
+    inline: true,
+    setup: (app) => {
+      app.get("/mock/json", (req, res, next) => {
+        // req: Node.js http.ClientRequest;
+        // res: Node.js http.ServerResponse;
+        // next: () => void;
+        var json = "{ hoge : 'huga' }";
+        //res.setHeader("some", "header");
+        res.end(json);
+      });
+    }
   },
   module: {
     preLoaders: [
