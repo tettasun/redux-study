@@ -1,23 +1,18 @@
-let nextTodoId = 0;
-export const addTodo = (text) => {
-	
+let countA = 0;
+let countB = 0;
+
+//Action of increas countA
+export const addCountA = () => {
 	return {
-		type: `ADD_TODO`,
-		id: nextTodoId++,
-		text
+		type: 'ADD_COUNT_A',
+		count: countA++// num
 	}
 }
 
-export const setVisibilityFilter = (filter) => {
+//Action of increas countB
+export const addCountB = () => {
 	return {
-		type: `SET_VISIBILITY_FILTER`,
-		filter
-	}
-}
-
-export const toggleTodo = (id) => {
-	return {
-		type: `TOGGLE_TODO`,
-		id
+		type: 'ADD_COUNT_B',
+		count: countB++ //num
 	}
 }
