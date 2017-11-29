@@ -15,9 +15,12 @@ module.exports = {
         // req: Node.js http.ClientRequest;
         // res: Node.js http.ServerResponse;
         // next: () => void;
+        var jj = require('./sample.json');
+        console.log(jj);
         var json = "{ hoge : 'huga' }";
         //res.setHeader("some", "header");
         res.end(json);
+//        res.end("" + jj);
       });
     }
   },

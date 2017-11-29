@@ -1,0 +1,149 @@
+    {
+        "status": "ok",
+        "feed": {
+            "url": "https://news.yahoo.co.jp/pickup/rss.xml",
+            "title": "Yahoo!ニュース・トピックス - 主要",
+            "link": "https://news.yahoo.co.jp/",
+            "author": "",
+            "description": "Yahoo! JAPANのニュース・トピックスで取り上げている最新の見出しを提供しています。",
+            "image": ""
+        },
+        "items": [
+            {
+                "title": "小池氏代表辞任 党に怒りの声",
+                "pubDate": "2017-11-14 09:04:35",
+                "link": "https://news.yahoo.co.jp/pickup/6261142",
+                "guid": "yahoo/news/topics/6261142",
+                "author": "",
+                "thumbnail": "",
+                "description": "",
+                "content": "",
+                "enclosure": {
+                    "link": "https://s.yimg.jp/images/icon/photo.gif",
+                    "type": "image/gif",
+                    "length": 133
+                },
+                "categories": [
+                ]
+            },
+            {
+                "title": "米制裁関税 中国が強烈な不満",
+                "pubDate": "2017-11-14 09:16:58",
+                "link": "https://news.yahoo.co.jp/pickup/6261143",
+                "guid": "yahoo/news/topics/6261143",
+                "author": "",
+                "thumbnail": "",
+                "description": "",
+                "content": "",
+                "enclosure": {
+                    "link": "https://s.yimg.jp/images/icon/photo.gif",
+                    "type": "image/gif",
+                    "length": 133
+                },
+                "categories": [
+                ]
+            },
+            {
+                "title": "東芝TV事業 中国企業に売却",
+                "pubDate": "2017-11-14 07:55:31",
+                "link": "https://news.yahoo.co.jp/pickup/6261135",
+                "guid": "yahoo/news/topics/6261135",
+                "author": "",
+                "thumbnail": "",
+                "description": "",
+                "content": "",
+                "enclosure": {
+                    "link": "https://s.yimg.jp/images/icon/photo.gif",
+                    "type": "image/gif",
+                    "length": 133
+                },
+                "categories": [
+                ]
+            },
+            {
+                "title": "無給は不当 アイドルら提訴",
+                "pubDate": "2017-11-14 08:15:21",
+                "link": "https://news.yahoo.co.jp/pickup/6261138",
+                "guid": "yahoo/news/topics/6261138",
+                "author": "",
+                "thumbnail": "",
+                "description": "",
+                "content": "",
+                "enclosure": {
+                    "link": "https://s.yimg.jp/images/icon/photo.gif",
+                    "type": "image/gif",
+                    "length": 133
+                },
+                "categories": [
+                ]
+            },
+            {
+                "title": "世界自然遺産 4分の1が危機に",
+                "pubDate": "2017-11-14 09:16:58",
+                "link": "https://news.yahoo.co.jp/pickup/6261140",
+                "guid": "yahoo/news/topics/6261140",
+                "author": "",
+                "thumbnail": "",
+                "description": "",
+                "content": "",
+                "enclosure": {
+                    "link": "https://s.yimg.jp/images/icon/photo.gif",
+                    "type": "image/gif",
+                    "length": 133
+                },
+                "categories": [
+                ]
+            },
+            {
+                "title": "15日トライアウト 注目選手は",
+                "pubDate": "2017-11-14 09:16:58",
+                "link": "https://news.yahoo.co.jp/pickup/6261137",
+                "guid": "yahoo/news/topics/6261137",
+                "author": "",
+                "thumbnail": "",
+                "description": "",
+                "content": "",
+                "enclosure": {
+                    "link": "https://s.yimg.jp/images/icon/photo.gif",
+                    "type": "image/gif",
+                    "length": 133
+                },
+                "categories": [
+                ]
+            },
+            {
+                "title": "横審 日馬に厳しい処置要求",
+                "pubDate": "2017-11-14 09:40:56",
+                "link": "https://news.yahoo.co.jp/pickup/6261141",
+                "guid": "yahoo/news/topics/6261141",
+                "author": "",
+                "thumbnail": "",
+                "description": "",
+                "content": "",
+                "enclosure": {
+                    "link": "https://s.yimg.jp/images/icon/photo.gif",
+                    "type": "image/gif",
+                    "length": 133
+                },
+                "categories": [
+                ]
+            },
+            {
+                "title": "マツコ不在 穴埋めに四苦八苦",
+                "pubDate": "2017-11-14 06:51:56",
+                "link": "https://news.yahoo.co.jp/pickup/6261129",
+                "guid": "yahoo/news/topics/6261129",
+                "author": "",
+                "thumbnail": "",
+                "description": "",
+                "content": "",
+                "enclosure": {
+                    "link": "https://s.yimg.jp/images/icon/photo.gif",
+                    "type": "image/gif",
+                    "length": 133
+                },
+                "categories": [
+                ]
+            }
+        ]
+    }

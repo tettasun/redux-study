@@ -1,0 +1,170 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/vP3Dhi1IR4D98WwczRX4e-kzUTM\"",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 31885,
+    "resultsPerPage": 5
+  },
+  "items": [{
+      "kind": "youtube#searchResult",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/efRDydjEt2ubDUkQFo8Ym8F7sQo\"",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-26T15:08:09.000Z",
+        "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
+        "title": "AbemaTV公式 YouTube",
+        "description": "インターネットテレビ局「AbemaTV（アベマティーヴィー）」の公式Youtubeチャンネルです。毎日オリジナル番組をYoutubeで公開中！ ［AbemaTV（アベマ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-B3MQeQGKiTw/AAAAAAAAAAI/AAAAAAAAAAA/ZkJVZx8ImpY/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-B3MQeQGKiTw/AAAAAAAAAAI/AAAAAAAAAAA/ZkJVZx8ImpY/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-B3MQeQGKiTw/AAAAAAAAAAI/AAAAAAAAAAA/ZkJVZx8ImpY/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          }
+        },
+        "channelTitle": "AbemaTV公式 YouTube",
+        "liveBroadcastContent": "upcoming"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/bs4FDTWGTcuw1QlXoN-iM26UqI4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0uIoPUud4AM"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-28T15:00:00.000Z",
+        "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
+        "title": "【#6】新メンバー追加！まさかの心揺れる男があらわれる【遠距離❤︎ラブ】恋する❤︎週末ホームステイ｜毎週火曜よる11時からアベマTVで放送中",
+        "description": "この放送のノーカット版はアベマTVで【無料】公開中！ 好きな時に何度でも見放題▷https://abe.ma/2AgA8rf 真夏に放送した青春胸キュン リアリティ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0uIoPUud4AM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0uIoPUud4AM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0uIoPUud4AM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AbemaTV公式 YouTube",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Dgazfn9JGH0YtEavb3BgqQk3pYE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bJIJ-PUO86E"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-28T15:00:03.000Z",
+        "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
+        "title": "【#6】せーか×けん、2ショットで確かめ合う気持ち【遠距離❤︎ラブ】恋する❤︎週末ホームステイ｜毎週火曜よる11時からアベマTVで放送中",
+        "description": "この放送のノーカット版はアベマTVで【無料】公開中！ 好きな時に何度でも見放題▷https://abe.ma/2AgA8rf 真夏に放送した青春胸キュン リアリティ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bJIJ-PUO86E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bJIJ-PUO86E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bJIJ-PUO86E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AbemaTV公式 YouTube",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/3rTllxX5jbm7iuM0REeZ_G-ohj8\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dXQ3QS3pM40"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-28T14:44:21.000Z",
+        "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
+        "title": "“IQ300”?数珠繋ぎに関係が広まっていくテクにブラマヨ吉田も絶賛｜指原莉乃＆ブラマヨの恋するサイテー男総選挙♯32｜AbemaSPECIAL【AbemaTV】",
+        "description": "この放送のノーカット版はAbemaTVで【無料】公開中！ 好きな時に何度でも見放題▷https://abe.ma/2hRyTXj 毎週火曜よる9時からAbemaTVで放送中！ 独特の...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dXQ3QS3pM40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dXQ3QS3pM40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dXQ3QS3pM40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AbemaTV公式 YouTube",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/RZJ0BGp8epQxEKyyPPE2KO1ex5w\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hOsgPB_bXuo"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-04T10:53:13.000Z",
+        "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
+        "title": "緊張の時…森くんと3人が感動の再会｜＼明日から、アップするよ／『72時間ホンネテレビ』見どころ続々ビデオで公開中！",
+        "description": "公式YouTubeでも番組の見どころを随時お届け中！▽▽ ◇公式Youtubeをチャンネル登録して 『72時間ホンネテレビ』の最新情報をチェック！...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hOsgPB_bXuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hOsgPB_bXuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hOsgPB_bXuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AbemaTV公式 YouTube",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}
