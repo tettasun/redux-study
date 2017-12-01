@@ -1,9 +1,12 @@
 module.exports = {
-  entry: './src/index.js',
+  entry: './src/index.jsx',
   output: {
     path: './dist/',
     filename: 'index.js',
     publicPath: '/dist/'
+  },
+  resolve: {
+  extensions: ['', '.js', '.jsx']
   },
   devtool: '#source-map',
   devServer: {
@@ -29,7 +32,9 @@ module.exports = {
       { test: /\.js$/, exclude: /node_modules/, loader: 'eslint' }
     ],
     loaders: [
-      { test: /\.js$/|/\.jsx$/, exclude: /node_modules/, loader: 'babel' },
+      { test: /\.js$/|/\.jsx$/, exclude: /node_modules/, loader: 'babel' ,      query: {
+        plugins: ["transform-react-jsx"] // babelのtransform-react-jsxプラグインを使ってjsxを変換
+      }},
       { test: /\.json$/, loader: 'json-loader'},
       { test: /\.css$/,loaders:['style', 'css?modules']}
     ]
