@@ -7,14 +7,14 @@ import PropTypes from 'prop-types'
 function makeButtons(data)
 {
   var buttons = [];
-  for(var i = 0; i < data.length; i++)
+  data.map(function(d,i)
   {
-    var thumb = data[i]['snippet']['thumbnails']['medium']['url'];
-    var link = 'https://www.youtube.com/watch?v=' + data[i]['id']['videoId'];
+    let thumb = d['snippet']['thumbnails']['medium']['url'];
+    let link = 'https://www.youtube.com/watch?v=' + d['id']['videoId'];
     //console.log("さむ " + thumb);
-    buttons.push(<YButton thumb={thumb}
-                          link={link}/>);
-  }
+    buttons.push(<div key={link}><YButton thumb={thumb}
+                          link={link}/> </div>);
+  });
 
   return buttons;
 }

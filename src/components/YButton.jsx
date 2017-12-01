@@ -8,10 +8,7 @@ function click(link){
 }
 
 const YButton = ({thumb, link}) => (
-
-    <div>
-      <img src={thumb} alt="---" onClick={() => click(link)} className="grid-item"/>
-    </div>
+  <img src={thumb} alt="---" onClick={() => click(link)} className="grid-item" />
 );
 YButton.propTypes = {
   thumb: PropTypes.string.isRequired,
