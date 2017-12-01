@@ -15,6 +15,21 @@ background-color:#000000;
 }
 
 .grid-item  {
-  width: 88%;
+  width: 100%;
   float: left;
+}
+
+img.grid-item  {
+    -moz-transition: -moz-transform 0.2s linear;
+    -webkit-transition: -webkit-transform 0.2s linear;
+    -o-transition: -o-transform 0.2s linear;
+    -ms-transition: -ms-transform 0.2s linear;
+    transition: transform 0.2s linear;
+}
+img:hover.grid-item {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
 }

@@ -1,5 +1,4 @@
 import React from 'react';
-import { data } from '../actions';
 import YButton from './YButton'
 import PropTypes from 'prop-types'
 
@@ -30,7 +29,6 @@ const Pannel = ({data}) => (
 );
 Pannel.propTypes = {
   data: PropTypes.any.isRequired
-  // addCountB: PropTypes.func.isRequired
 }
 export default Pannel
 
