@@ -10,8 +10,7 @@ for (var i = 0; i < 100; i++){
 
 const App = () => (
   <div>
-     {list}
-     <AddCountB />
+
     <Pannel />
   </div>
 )

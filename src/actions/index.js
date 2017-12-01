@@ -16,3 +16,18 @@ export const addCountB = () => {
 		count: countB++ //num
 	}
 }
+
+export const data = (channels) =>
+{
+  return {
+    type: 'DATA',
+    channels: channels
+  }
+}
+
+export const yclick = (id) => {
+  return {
+    type: 'Y_CLICK',
+    id: id
+  }
+}

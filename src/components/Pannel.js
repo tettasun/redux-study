@@ -1,17 +1,22 @@
 import React from 'react';
-//import { addCountB } from '../actions';
+import { data } from '../actions';
 import YButton from './YButton'
 import PropTypes from 'prop-types'
 
-function click(){
-  console.log("click");
+var buttons = [];
+for(var i = 0; i < 9; i++)
+{
+  buttons.push(<YButton />);
 }
 
-const Pannel = () => (
-    <YButton />
+const Pannel = ({data}) => (
+  <div>
+  <h1> Pannel Mock </h1>
+  {buttons}
+  </div>
 );
 Pannel.propTypes = {
-  // count: PropTypes.number.isRequired,
+  data: PropTypes.any.isRequired
   // addCountB: PropTypes.func.isRequired
 }
 export default Pannel
