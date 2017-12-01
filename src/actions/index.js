@@ -25,9 +25,10 @@ export const data = (channels) =>
   }
 }
 
-export const yclick = (id) => {
+export const yclick = (thumb, link) => {
   return {
     type: 'Y_CLICK',
-    id: id
+    thumb: thumb,
+    link: link
   }
 }

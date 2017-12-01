@@ -1,17 +1,12 @@
 import React from 'react'
-import AddCountA from '../containers/counterALink'
-import AddCountB from '../containers/counterBLink'
 import Pannel from './Pannel'
 
-var list = [];
-for (var i = 0; i < 100; i++){
-      list.push(<AddCountA />);
-     }
+var channels = [];
+var dataObj = require('../resources/data.json');
 
 const App = () => (
   <div>
-
-    <Pannel />
+    <Pannel data={dataObj['items']}/>
   </div>
 )
 

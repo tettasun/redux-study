@@ -2,18 +2,20 @@ import React from 'react';
 //import { addCountB } from '../actions';
 import PropTypes from 'prop-types'
 
-function click(){
+function click(link){
+  location.href = link;
   console.log('click');
 }
 
-const YButton = () => (
+const YButton = ({thumb, link}) => (
+
     <div>
-        <a href="#" onClick={() => click()}>Button</a>
+      <img src={thumb} alt="---" onClick={() => click(link)} className="grid-item"/>
     </div>
 );
 YButton.propTypes = {
-  // count: PropTypes.number.isRequired,
-  // addCountB: PropTypes.func.isRequired
+  thumb: PropTypes.string.isRequired,
+  link: PropTypes.string.isRequired
 }
 export default YButton
 

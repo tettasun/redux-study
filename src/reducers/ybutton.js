@@ -1,9 +1,10 @@
 const ybutton = (state = [], action) => {
-  console.log("ybutton " + action.type + " id " + action.id);
+  console.log("ybutton " + action.type + " link " + action.link);
   switch  (action.type){
     case 'Y_CLICK':
       return Object.assign({}, state, {
-        id: action.id
+        thumb: action.thumb,
+        link: action.link
     })
     default:
       return state;

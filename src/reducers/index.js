@@ -1,10 +1,10 @@
 import { combineReducers } from 'redux'
-import counterA from './counterA'
-import counterB from './counterB'
+import data from './pannel'
+import yclick from './ybutton'
 
-const countApp = combineReducers({
-  counterA,
-  counterB
+const combinedReducer = combineReducers({
+  data,
+  yclick
 })
 
-export default countApp
+export default combinedReducer
