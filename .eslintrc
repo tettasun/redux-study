@@ -14,7 +14,7 @@
   },
   "rules": {
     "semi": 0,
-    "strict": [2, "function"],
+    "strict": [0, "function"],
     "no-undef": 2,
     "no-console": 0,
     "no-unused-vars": 1,

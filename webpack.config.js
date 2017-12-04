@@ -8,6 +8,9 @@ module.exports = {
   resolve: {
   extensions: ['', '.js', '.jsx']
   },
+  eslint: {
+    configFile: './.eslintrc.rc',
+  },
   devtool: '#source-map',
   devServer: {
     contentBase: './',
@@ -29,10 +32,17 @@ module.exports = {
   },
   module: {
     preLoaders: [
-      { test: /\.js$/, exclude: /node_modules/, loader: 'eslint' }
     ],
     loaders: [
-      { test: /\.js$/|/\.jsx$/, exclude: /node_modules/, loader: 'babel' ,      query: {
+      {
+        test: /\.(js|jsx)$/,
+        exclude: /node_modules/,
+        loader: 'eslint'
+      },
+      { test: /\.js$/|/\.jsx$/,
+       exclude: /node_modules/,
+       loader: 'babel' ,
+      query: {
         plugins: ["transform-react-jsx"] // babelのtransform-react-jsxプラグインを使ってjsxを変換
       }},
       { test: /\.json$/, loader: 'json-loader'},
