@@ -1,5 +1,4 @@
 import React from 'react';
-//import { addCountB } from '../actions';
 import PropTypes from 'prop-types'
 
 function click(link){

@@ -1,5 +1,6 @@
 export const data = (channels) =>
 {
+  console.log("data呼ばれた" + channels);
   return {
     type: 'DATA',
     channels: channels
