@@ -1,307 +1,307 @@
 {
  "kind": "youtube#searchListResponse",
- "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/aIrJW_cDPHMTa3X-YB_WOvIYx_0\"",
+ "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/w4GFO140p5o9CKtkZIK-CSJn2XM\"",
  "nextPageToken": "CAkQAA",
  "regionCode": "JP",
  "pageInfo": {
-  "totalResults": 45629,
+  "totalResults": 1000000,
   "resultsPerPage": 9
  },
  "items": [
   {
    "kind": "youtube#searchResult",
-   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/Ia9ZSYy4tU4sxY0s82s2cnyZSz8\"",
+   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/8aoI8YRYko7Jfcc0rOvG-vrTZqE\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "akKjBj01Nls"
+    "videoId": "iNk9_bUKYx0"
    },
    "snippet": {
-    "publishedAt": "2017-11-30T13:30:01.000Z",
-    "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
-    "title": "【今夜0時】発言がギリギリ過ぎてピー音連発!? 恵比寿マスカッツが爆弾トーク連発の真夜中のワイドショー！アベマTVなら自主規制なし♡｜恵比寿マスカッツ 1.5 真夜中のワイドショー#4｜AbemaTV",
-    "description": "この放送の無修正・ノーカット版はAbemaTVで【無料】公開中！好きな時に何度でも見放題▷https://abe.ma/2i7xooh 毎週木曜今夜２４時からAbemaTVで放送...",
+    "publishedAt": "2014-05-11T19:39:49.000Z",
+    "channelId": "UCp0r5Av3fK2a0URGgBvsALQ",
+    "title": "Best of Heavy Metal (2014)",
+    "description": "Top 10 Heavy Metal songs on my opinion (part#1) Лучшее из Heavy Metal (часть 1) Second part of this video: ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/akKjBj01Nls/default.jpg",
+      "url": "https://i.ytimg.com/vi/iNk9_bUKYx0/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/akKjBj01Nls/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/iNk9_bUKYx0/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/akKjBj01Nls/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/iNk9_bUKYx0/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "AbemaTV公式 YouTube",
+    "channelTitle": "ART_of_METAL",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/DBdjPtlOC3frXDXsXH9t3aR6rtA\"",
+   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/5exwcRl1M_v-CeGiSOcDFsJE6XA\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "2yj9Mq3APXA"
+    "videoId": "5V_wKuw2mvI"
    },
    "snippet": {
-    "publishedAt": "2017-11-29T14:00:00.000Z",
-    "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
-    "title": "夏目花実が入浴＆おっぱいマッサージ ふんわりやわらかバストを目指す｜スリルな夜！#85 お風呂SP♡美肌美乳にダイエット！？生入浴で水も滴るイイ女！｜AbemaSPECIAL【AbemaTV】",
-    "description": "毎週火曜24時からAbemaTVで放送中！ スリルなテーマで女性の本性を丸裸にするドキュメントバラエティ! ◇この放送が全編観れるのはアベマTVだけ...",
+    "publishedAt": "2013-02-14T16:48:45.000Z",
+    "channelId": "UCXO28b_pXj1FDfxbjI5zsCw",
+    "title": "Heavy Metal Playlist",
+    "description": "Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FCKWL3DSMJ43J Pls Subscribe and Like ''HellDamage666'' ENJOY \\, ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/2yj9Mq3APXA/default.jpg",
+      "url": "https://i.ytimg.com/vi/5V_wKuw2mvI/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/2yj9Mq3APXA/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/5V_wKuw2mvI/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/2yj9Mq3APXA/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/5V_wKuw2mvI/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "AbemaTV公式 YouTube",
+    "channelTitle": "HellDamage666",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/gUATFjGO5sGAO7BPfGX4fgBr0A8\"",
+   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/KYjiX00MoF0EmpydyvJqQgdlNfM\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "sstNJSu5w5c"
+    "videoId": "iSh9qg-2qKw"
    },
    "snippet": {
-    "publishedAt": "2017-11-08T07:00:02.000Z",
-    "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
-    "title": "【#3 本編】大阪女子×東京男子『遅れてきた女子めぐって波乱!?』｜恋する♥週末ホームステイ｜毎週火曜よる11時からアベマTVで放送中",
-    "description": "東京女子×北海道男子編、#3本編はアベマTVで【無料】公開中！ コチラから▷https://abe.ma/2hRzKYh 真夏に放送した青春胸キュン リアリティーショー『...",
+    "publishedAt": "2016-09-20T17:10:34.000Z",
+    "channelId": "UCq3v2F82_Avvg_zKszdNxag",
+    "title": "Heavy Metal Classics",
+    "description": "Classic Heavy Metal Collection 0:00 Judas Priest - Hellion/Electric Eye 4:06 Iron Maiden - Wasted Years 9:01 Black Sabbath - Die Young 12:39 Angel Witch ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/sstNJSu5w5c/default.jpg",
+      "url": "https://i.ytimg.com/vi/iSh9qg-2qKw/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/sstNJSu5w5c/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/iSh9qg-2qKw/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/sstNJSu5w5c/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/iSh9qg-2qKw/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "AbemaTV公式 YouTube",
+    "channelTitle": "ElricCH",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/RZJ0BGp8epQxEKyyPPE2KO1ex5w\"",
+   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/_mCmtoug8XA08whVv85vhm4nHkE\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "hOsgPB_bXuo"
+    "videoId": "l_WMHg8c_4I"
    },
    "snippet": {
-    "publishedAt": "2017-11-04T10:53:13.000Z",
-    "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
-    "title": "緊張の時…森くんと3人が感動の再会｜＼明日から、アップするよ／『72時間ホンネテレビ』見どころ続々ビデオで公開中！",
-    "description": "公式YouTubeでも番組の見どころを随時お届け中！▽▽ ◇公式Youtubeをチャンネル登録して 『72時間ホンネテレビ』の最新情報をチェック！...",
+    "publishedAt": "2010-11-04T07:59:21.000Z",
+    "channelId": "UCnK9PxMozTYs8ELOvgMNKFA",
+    "title": "DREAM EVIL - The Book Of Heavy Metal (HIGH QUALITY)",
+    "description": "DREAM EVIL - The Book Of Heavy Metal (HD QUALITY). Taken from the album \"The Book Of Heavy Metal\". Century Media 2004.",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/hOsgPB_bXuo/default.jpg",
+      "url": "https://i.ytimg.com/vi/l_WMHg8c_4I/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/hOsgPB_bXuo/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/l_WMHg8c_4I/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/hOsgPB_bXuo/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/l_WMHg8c_4I/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "AbemaTV公式 YouTube",
+    "channelTitle": "Century Media Records",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/bs4FDTWGTcuw1QlXoN-iM26UqI4\"",
+   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/Dr4sZO-t-lbZdpKt5JI_qUJ4AZc\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "0uIoPUud4AM"
+    "videoId": "0zx5FWJ-spc"
    },
    "snippet": {
-    "publishedAt": "2017-11-28T15:00:00.000Z",
-    "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
-    "title": "【#6】新メンバー追加！まさかの心揺れる男があらわれる【遠距離❤︎ラブ】恋する❤︎週末ホームステイ｜毎週火曜よる11時からアベマTVで放送中",
-    "description": "この放送のノーカット版はアベマTVで【無料】公開中！ 好きな時に何度でも見放題▷https://abe.ma/2AgA8rf 真夏に放送した青春胸キュン リアリティ...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/0uIoPUud4AM/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/0uIoPUud4AM/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/0uIoPUud4AM/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "AbemaTV公式 YouTube",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/2JEI1Kwgq6qot9OPV8Eqx5iH-Gg\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "CtDsmAEWgC8"
-   },
-   "snippet": {
-    "publishedAt": "2017-11-06T14:13:48.000Z",
-    "channelId": "UCak2blC5h1KtouOmkX0aF_A",
-    "title": "香取慎吾がabemaTV放送中に木村拓哉へ送った「あるメッセージ」にSMAPファンの感動が止まらない…【mayu】",
-    "description": "香取慎吾くんが行った木村拓哉くんへのメッセージがヤバいです。 稲垣吾郎くんたちもやっていたのではという噂もあります。 新しい地図の新...",
-    "thumbnails": {
-     "default": {
-      "url": "https://i.ytimg.com/vi/CtDsmAEWgC8/default.jpg",
-      "width": 120,
-      "height": 90
-     },
-     "medium": {
-      "url": "https://i.ytimg.com/vi/CtDsmAEWgC8/mqdefault.jpg",
-      "width": 320,
-      "height": 180
-     },
-     "high": {
-      "url": "https://i.ytimg.com/vi/CtDsmAEWgC8/hqdefault.jpg",
-      "width": 480,
-      "height": 360
-     }
-    },
-    "channelTitle": "mayu",
-    "liveBroadcastContent": "none"
-   }
-  },
-  {
-   "kind": "youtube#searchResult",
-   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/WswCProk0anMTevNyxF7jUibbVo\"",
-   "id": {
-    "kind": "youtube#video",
-    "videoId": "mLeFS08rxxA"
-   },
-   "snippet": {
-    "publishedAt": "2017-11-29T18:43:56.000Z",
-    "channelId": "UCG-0FiOvcEkR3EFM3SB01Fg",
-    "title": "【BiSH】AbemaTVインタビューまとめ(2017/11/29)",
+    "publishedAt": "2015-05-12T17:57:34.000Z",
+    "channelId": "UC6puZG6lLdi6SMkv7e3htBQ",
+    "title": "Heavy Metal/ and Glam 80s - 90s \\m/",
     "description": "",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/mLeFS08rxxA/default.jpg",
+      "url": "https://i.ytimg.com/vi/0zx5FWJ-spc/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/mLeFS08rxxA/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/0zx5FWJ-spc/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/mLeFS08rxxA/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/0zx5FWJ-spc/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "あんず・D",
+    "channelTitle": "soulsickk\\m/",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/Dgazfn9JGH0YtEavb3BgqQk3pYE\"",
+   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/O4NKGgwqMx4RsudsKd1_o6cKJBc\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "bJIJ-PUO86E"
+    "videoId": "40K2gruS8j0"
    },
    "snippet": {
-    "publishedAt": "2017-11-28T15:00:03.000Z",
-    "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
-    "title": "【#6】せーか×けん、2ショットで確かめ合う気持ち【遠距離❤︎ラブ】恋する❤︎週末ホームステイ｜毎週火曜よる11時からアベマTVで放送中",
-    "description": "この放送のノーカット版はアベマTVで【無料】公開中！ 好きな時に何度でも見放題▷https://abe.ma/2AgA8rf 真夏に放送した青春胸キュン リアリティ...",
+    "publishedAt": "2016-04-22T21:25:06.000Z",
+    "channelId": "UCoxYXzXM2r6weJOc24bhzZg",
+    "title": "Heavy Metal Collection [NWOTHM] vol.1",
+    "description": "New Wave Of Traditional Heavy Metal Vol.1 Picture link: https://mega.nz/#!E91HGTjC!K6NIvLgWbqT-pau_Dc0AgpUkwt5I5x_Ibs6YwQoBUyE ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/bJIJ-PUO86E/default.jpg",
+      "url": "https://i.ytimg.com/vi/40K2gruS8j0/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/bJIJ-PUO86E/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/40K2gruS8j0/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/bJIJ-PUO86E/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/40K2gruS8j0/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "AbemaTV公式 YouTube",
+    "channelTitle": "Metal Collection",
     "liveBroadcastContent": "none"
    }
   },
   {
    "kind": "youtube#searchResult",
-   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/_CcrAvbEDAAhLfUtbTDsqubcOTo\"",
+   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/mnjRHq3DGB6LjXQAphM3Lgm8kHU\"",
    "id": {
     "kind": "youtube#video",
-    "videoId": "RDzGUFfO5gY"
+    "videoId": "39DZomp_lgE"
    },
    "snippet": {
-    "publishedAt": "2017-11-02T16:06:47.000Z",
-    "channelId": "UCLsdm7nCJCVTWSid7G_f0Pg",
-    "title": "爆笑問題が乱入！爆笑問題太田が登場早々大暴れ！？｜稲垣・草彅・香取の72時間ホンネテレビついに開始！今日から3人のSNSが始動！ #72時間ホンネテレビ開始",
-    "description": "公式YouTubeでも番組の見どころを随時お届け中！▽▽ ◇公式Youtubeをチャンネル登録して 『72時間ホンネテレビ』の最新情報をチェック！...",
+    "publishedAt": "2016-12-06T06:49:02.000Z",
+    "channelId": "UCfi2CYWmz5f7gxSaJ-y7nVg",
+    "title": "Kickass Metal Playlist | Heavy Metal",
+    "description": "Follow Me On Facebook ➥ https://goo.gl/PEImBL ○ Kick-ass Heavy Metal Compilation Tracklist: 00:00 Conquest - Frozen Sky 05:01 Dark Moor - Maid Of ...",
     "thumbnails": {
      "default": {
-      "url": "https://i.ytimg.com/vi/RDzGUFfO5gY/default.jpg",
+      "url": "https://i.ytimg.com/vi/39DZomp_lgE/default.jpg",
       "width": 120,
       "height": 90
      },
      "medium": {
-      "url": "https://i.ytimg.com/vi/RDzGUFfO5gY/mqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/39DZomp_lgE/mqdefault.jpg",
       "width": 320,
       "height": 180
      },
      "high": {
-      "url": "https://i.ytimg.com/vi/RDzGUFfO5gY/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/39DZomp_lgE/hqdefault.jpg",
       "width": 480,
       "height": 360
      }
     },
-    "channelTitle": "AbemaTV公式 YouTube",
+    "channelTitle": "JEDER DRAHT MUSIK",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/Dzq3KGA2qseYk8RiL1fera94eUM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2GcLSC1RF_E"
+   },
+   "snippet": {
+    "publishedAt": "2015-08-04T12:44:43.000Z",
+    "channelId": "UCmLjsyChDd8r1RdeOg0uPJg",
+    "title": "Blizzard Hunter - Heavy Metal to the Vein (Full Album) - 2015",
+    "description": "Heavy Metal to the Vein is the debut studio album by Peruvian Heavy/Speed Metal band Blizzard Hunter. Track list: 01. Conqueror of Destiny: 00:00 02. I'm on ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2GcLSC1RF_E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2GcLSC1RF_E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2GcLSC1RF_E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Let's Rock³",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"7991kDR-QPaa9r0pePmDjBEa2h8/G5gplF9HFMRXEtvXqAT9WRE3ouU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "htCcgpisgtk"
+   },
+   "snippet": {
+    "publishedAt": "2015-12-02T06:24:19.000Z",
+    "channelId": "UC06GZ57P7UNxl1uHANF_G8w",
+    "title": "Ultimate Hard Rock/Metal Mix Playlist",
+    "description": "Follow Metal Guitar Stuff: ☑ Offical Channel: http://bit.ly/2g4XJAw ☑ Subscribe: http://bit.ly/2g54mTx ☑ Facebook: https://www.facebook.com/metalguitarstuff ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/htCcgpisgtk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/htCcgpisgtk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/htCcgpisgtk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "whackedlandia",
     "liveBroadcastContent": "none"
    }
   }

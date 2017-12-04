@@ -1,4 +1,4 @@
-export const data = (channels) =>
+export const updateData = (channels) =>
 {
   console.log("data呼ばれた" + channels);
   return {
