@@ -1,5 +1,6 @@
 const panels = (state = [], action) => {
-  console.log("panel " + action.type + " channels " + action.channels);
+  console.log("panels " , state);
+//  console.log("panel " + action.type + " channels " + action.channels);
   switch  (action.type){
     case 'DATA' :
       return Object.assign({}, state, {

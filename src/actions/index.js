@@ -1,9 +1,9 @@
 export const updateData = (channels) =>
 {
-  console.log("data呼ばれた" + channels);
+  console.log("data呼ばれた" , channels);
   return {
     type: 'DATA',
-    channels: channels
+    channels
   }
 }
 

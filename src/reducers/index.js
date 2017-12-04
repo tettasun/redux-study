@@ -1,9 +1,9 @@
 import { combineReducers } from 'redux'
-import data from './pannel'
+import pannelData from './pannel'
 import yclick from './ybutton'
 
 const combinedReducer = combineReducers({
-  data,
+  pannelData,
   yclick
 })
 

@@ -3,11 +3,11 @@ import { connect } from 'react-redux'
 import Pannel from '../components/Pannel'
 
 function mapStateToProps(state) {
-  console.log(state);
+  console.log("ステイト ", state);
   return {
     // propsを通して取得する際に使う名前: Storeのstateの値
 
-    channels: state.channels
+    channels: state.pannelData.channels
   };
 }
 

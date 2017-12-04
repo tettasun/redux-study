@@ -4,7 +4,7 @@ import React from 'react'
 //import SearchButton from './SearchButton'
 import SearchContainer from '../containers/searchConnect'
 import Panel from '../containers/pannelConnect'
-import {data} from '../actions'
+import {updateData} from '../actions'
 
 var dataObj = require('../resources/data.json');
 
@@ -16,8 +16,9 @@ var dataObj = require('../resources/data.json');
 
 const App = () => (
   <div>
+    {console.log("App呼ばれ")}
     <SearchContainer />
-    <Panel data={dataObj['items']}/>
+    <Panel channels={dataObj['items']}/>
   </div>
 )
 

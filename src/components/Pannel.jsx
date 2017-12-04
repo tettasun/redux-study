@@ -4,14 +4,20 @@ import PropTypes from 'prop-types'
 
 
 //ボタンを作って返す
-function makeButtons(data)
+function makeButtons(channels)
 {
   var buttons = [];
-  data.map(function(d,i)
+  if (!channels)
+  {
+    return null;
+  }
+
+  console.log("タイプ " + typeof channels);
+  channels.map(function(d,i)
   {
     let thumb = d['snippet']['thumbnails']['medium']['url'];
     let link = 'https://www.youtube.com/watch?v=' + d['id']['videoId'];
-    //console.log("さむ " + thumb);
+    console.log("タイトル " + d['snippet']['title']);
     buttons.push(<div key={link}><YButton thumb={thumb}
                           link={link}/> </div>);
   });
@@ -19,16 +25,18 @@ function makeButtons(data)
   return buttons;
 }
 
-const Pannel = ({data}) => (
+const Pannel = ({channels}) => (
   <div>
+  {console.log("パネル " ,channels)}
   <h1> Contents </h1>
     <div className='grid-container'>
-    {makeButtons(data)}
+    {makeButtons(channels)}
     </div>
   </div>
 );
+
 Pannel.propTypes = {
-  data: PropTypes.any.isRequired
+  channels: PropTypes.any.isRequired
 }
 export default Pannel
 
